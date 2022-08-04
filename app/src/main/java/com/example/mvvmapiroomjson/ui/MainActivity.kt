@@ -1,7 +1,8 @@
-package com.example.mvvmapiroomjson
+package com.example.mvvmapiroomjson.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvvmapiroomjson.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
